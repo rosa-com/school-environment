@@ -1,5 +1,5 @@
 # school-environment
-A program that has student and teacher information.
+A program that has student and teacher interaction.
 
 **Students can:**
 
