@@ -20,10 +20,3 @@ A program that has student and teacher interaction.
 
 
 When tables are needed to be printed in the code, they are using the **DBTablePrinter** utility class by Hami Galip Torun
-
-It prints the table in this format:
-+--------+------------+------------+-----------+--------+-------------+
-| EMP_NO | BIRTH_DATE | FIRST_NAME | LAST_NAME | GENDER |  HIRE_DATE  |
-+--------+------------+------------+-----------+--------+-------------+
-|  10001 | 1953-09-02 | Georgi     | Facello   | M      |  1986-06-26 |
-+--------+------------+------------+-----------+--------+-------------+
