@@ -95,7 +95,7 @@ CREATE TABLE `students` (
 
 LOCK TABLES `students` WRITE;
 /*!40000 ALTER TABLE `students` DISABLE KEYS */;
-INSERT INTO `students` VALUES (1,'Mary','Jane',3),(2,'Eloise','Lewis',NULL),(4,'Mark','Ferris',NULL),(5,'Nira','Low',1),(6,'Joe','Bloggs',NULL),(7,'Jane','Doe',1),(8,'Roselyn','Kamugisha',2),(9,'Peter','Crew',NULL),(10,'Angelica','Lewis',NULL),(11,'Rebecca','Smith',NULL);
+INSERT INTO `students` VALUES (1,'Mary','Jane',3),(2,'Eloise','Lewis',NULL),(4,'Mark','Ferris',NULL),(5,'Nira','Low',1),(6,'Joe','Bloggs',NULL),(7,'Jane','Doe',1),(8,'Roselyn','Karey',2),(9,'Peter','Crew',NULL),(10,'Angelica','Lewis',NULL),(11,'Rebecca','Smith',NULL);
 /*!40000 ALTER TABLE `students` ENABLE KEYS */;
 UNLOCK TABLES;
 
